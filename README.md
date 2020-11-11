@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">This Simple Keylogger program will help you to get every keypress of your target computer. Once executed on target machine it can run automatically when target computer is turned on. This is for educational purpose only. Do not try to harm anyone with this program. I am not responsible for any damage that is done by this program. Be smart, be safe. Hope you will like the program. You can also use the code to make your own version of the program. If you use this code give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
+<h3 align="left">This Simple Keylogger program will help you to get every keypress of your target computer. Once executed on target machine it can run automatically when target computer is turned on. <font color='red'>This is for educational purpose only. Do not try to harm anyone with this program. I am not responsible for any damage that is done by this program. Be smart, be safe.</font> Hope you will like the program. You can also use the code to make your own version of the program. If you use this code give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
 
 
 <br>
@@ -92,10 +92,10 @@ $ pip install -r requirements.txt
 
 <h2>Important Note</h2>
 
-- This is for educational purpose only.
-- Do not try to harm anyone with this program.
-- I am not responsible for any damage that is done by this program.
-- Dont delete any file it may <span style="color:red">*CRASH*</span> the program!
+- <font color='red'>This is for educational purpose only.</font>
+- <font color='red'>Do not try to harm anyone with this program.</font>
+- <font color='red'>I am not responsible for any damage that is done by this program.</font>
+- Dont delete any file it may <font color='red'>CRASH</font> the program!
 
 
 <h2>How to run?</h2>
